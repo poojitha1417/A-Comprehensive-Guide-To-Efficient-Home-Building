@@ -1,12 +1,4 @@
 # A-Comprehensive-Guide-To-Efficient-Home-Building
-# 🏡 HomeBuilder — Smart Home Construction Management Platform
-
-![PHP](https://img.shields.io/badge/PHP-Backend-blue)
-![JavaScript](https://img.shields.io/badge/JavaScript-Frontend-yellow)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-UI-cyan)
-![Vite](https://img.shields.io/badge/Vite-BuildTool-purple)
-![MySQL](https://img.shields.io/badge/MySQL-Database-orange)
-
 ---
 
 ## 📌 Overview
@@ -52,7 +44,7 @@ This project demonstrates practical full-stack development using **PHP, JavaScri
 ---
 
 ## 📂 Project Structure
-''' text
+```text
 homebuilder/
 │
 ├── css/
